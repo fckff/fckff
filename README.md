@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @fckff. Now fckff.
+Hi, I’m @fckff. Now fckff.
